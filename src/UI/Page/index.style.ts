@@ -1,5 +1,5 @@
-import colors from "constants/styles";
 import styled from "styled-components";
+import colors from "styles/constants";
 
 const Page = styled.div`
   background: ${colors.darkBlue};

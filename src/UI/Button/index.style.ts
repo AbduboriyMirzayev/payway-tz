@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import colors from "constants/styles";
+import colors from "styles/constants";
 
 type ButtonProps = {
   margin?: string;
